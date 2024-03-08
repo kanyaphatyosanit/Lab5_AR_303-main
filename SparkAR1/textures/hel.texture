@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "hel",
+  "identifier": "texture:3739-e8958c48-5dee-4ba1-9ebc-5687fc7ee6b8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "9b404c8c10493079935d0b9480100084",
+  "assetLocator": "textures/hel.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 858,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 840,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "9b404c8c10493079935d0b9480100084",
+      "colorCount": 23770,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.475811591088511,
+      "pixelsHigh": 858,
+      "pixelsWide": 840
+    }
+  ]
+}
